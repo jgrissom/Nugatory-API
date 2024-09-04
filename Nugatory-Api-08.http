@@ -1,0 +1,6 @@
+@Nugatory_Api_08_HostAddress = http://localhost:5071
+
+GET {{Nugatory_Api_08_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
